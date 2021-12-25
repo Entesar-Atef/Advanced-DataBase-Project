@@ -1,0 +1,44 @@
+h2
+{
+    color: red;
+    text-align: center;
+    
+}
+form
+{
+border: red;
+}
+
+.a 
+{
+  margin-left: 300px;
+}
+.b
+{
+    margin-left: 300px;
+}
+.c
+{
+    margin-left: 300px;
+}
+.d
+{
+    margin-left: 300px;
+}
+.e
+{
+    background-color: slateblue;
+    color: black;
+    font-weight: bold;
+    font-size: medium;
+    height: 30px;
+    width: 90px;
+    margin-left: 1450px;
+}
+
+.m
+{
+    height:30px;
+    width:300px;
+    border: 2px solid ;
+}
